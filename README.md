@@ -11,6 +11,7 @@ A curated list of benchmarks and resources to help you pick the right sandbox fo
 | [Nilesh's Full Benchmark Report](https://github.com/nickaggarwal/sandbox-test/blob/main/FULL_BENCHMARK_REPORT.md) | Comprehensive benchmark report by Nilesh from [Baseten](https://www.baseten.co/) (Ex-CTO of Inferless). |
 | [The Agent Sandbox Taxonomy](https://github.com/kajogo777/the-agent-sandbox-taxonomy) | Taxonomy and classification framework for agent sandboxes by George Fahmy, founder of [Stakpak](https://stakpak.dev/). |
 | [Ryan Vogel's Sandbox Experiments](https://x.com/ryanvogel/status/2024266375825363207) | Hands-on experimentation thread on sandbox providers. |
+| [Nathan Flurry's Cost Comparison](https://claude.ai/public/artifacts/5a2a8a9d-4af3-4524-a04f-92f4f92629a7) | Hourly and monthly cost comparison across sandbox providers by Nathan Flurry from [Rivet](https://rivet.dev/). |
 
 ## Our Take
 
